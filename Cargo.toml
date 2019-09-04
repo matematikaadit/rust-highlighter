@@ -7,3 +7,4 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rustc-ap-rustc_lexer = { version = "579.0.0", features = ["unicode-xid"] }
